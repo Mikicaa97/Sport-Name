@@ -34,15 +34,16 @@ font-face{
      overflow-x: hidden;
 }
 ::selection{
-    background-color: #2fa84e;
+    background-color: #fbc907;
 }
 span{
-    color: #044f8d;
+    color: #fbc907;
 }
 
 .logo img{
-  width: 272x;
-  height: 56px;
+  margin-top: -10%;
+  width: 232px;
+  height: 100px;
 }
 
 /* .box_bg_img img{
@@ -265,8 +266,8 @@ span{
      text-decoration: underline !important;
 }
  .main_bt:hover, .main_bt:focus {
-     background: #044f8d;
-     border: solid #044f8d 5px;
+     background: #fbc907;
+     border: solid #fbc907 5px;
      color: #fff;
 }
 /**-- list icon --**/
@@ -341,7 +342,7 @@ span{
      visibility: visible;
 }
  .top_awro {
-     background: #044f8d none repeat scroll 0 0;
+     background: #fbc907 none repeat scroll 0 0;
      cursor: pointer;
      padding: 6px 8px;
      position: fixed;
@@ -356,7 +357,7 @@ span{
      transition: all 0.5s ease;
 }
  .sale_pro {
-     background: #044f8d !important;
+     background: #fbc907 !important;
 }
  .margin_top_50 {
      margin-top: 50px;
@@ -381,11 +382,11 @@ span{
 }
  .menu-area-main li:hover a, .menu-area-main li:focus a {
      color: #fff;
-     background: #044f8d;
+     background: #fbc907;
 }
  .menu-area-main li.active a {
      color: #fff;
-     background: #044f8d;
+     background: #fbc907;
 }
  .right_cart_section {
      float: right;
@@ -908,7 +909,7 @@ span{
 }
  .main-menu ul li:first-child {
      margin-left: 0;
-     background: #044f8d; /*#f00*/
+     background: #fbc907; /*#f00*/
 }
  .main-menu ul>li>ul {
      opacity: 0;
@@ -996,7 +997,7 @@ span{
      border-radius: 5px;
 }
  .button_login:hover {
-    background-color: #044f8d;
+    background-color: #fbc907;
 }
  .padding_left0 {
     padding-left: 0px;
@@ -1039,11 +1040,11 @@ span{
      transition: 0s;
 }
 .header-top {
-    background: url(../images/banner2.jpg);
+    background: url(../images/hex_1356_900.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 50px;
-    min-height: 980px;
+    min-height: 1000px;
     background-position: right top;
 }
  .header {
@@ -1085,12 +1086,12 @@ span{
      font-size: 16px;
      text-transform: uppercase;
      background-color: #fff;
-     color: #044f8d;      /*#ff0000    #044f8d*/  
+     color: #fbc907;
      padding: 10px 40px;
      display: inline-block;
 }
  .text-bg a:hover {
-     background-color: #044f8d;
+     background-color: #fbc907;
      color: #fff;
 }
  .text-img figure {margin: 0;}
@@ -1174,8 +1175,8 @@ span{
      display: inline-block;
 }
  .our .Games a:hover {
-     background-color: #044f8d;
-     border: #044f8d solid 1px;
+     background-color: #fbc907;
+     border: #fbc907 solid 1px;
      color: #fff;
 }
 /** end our section **/
@@ -1200,7 +1201,7 @@ span{
     width: 100%;
 }
  .border_right {
-    border-right: #044f8d solid 6px;
+    border-right: #fbc907 solid 6px;
 }
  .box_text {
      max-width: 531px;
@@ -1224,8 +1225,8 @@ span{
      margin-top: 11px;
 }
  .box_text a:hover {
-     background-color: #044f8d;
-     border: #044f8d solid 1px;
+     background-color: #fbc907;
+     border: #fbc907 solid 1px;
      color: #fff;
 }
 /** end We_are section **/
@@ -1274,7 +1275,7 @@ span{
      margin-bottom: 60px;
 }
  .contact .contact_bg {
-     background: #044f8d;
+     background: #fbc907;
      width: 100%;
      height: 100%;
      padding: 0;
@@ -1310,7 +1311,7 @@ span{
  .contact .contact_bg .send:hover {
      background-color: #fff;
 border: #fff solid 1px;
-color: #044f8d;
+color: #fbc907;
 }
 /** end contact section **/
 /** testimonial **/
@@ -1376,7 +1377,7 @@ color: #044f8d;
 /** end testimonial **/
 /** footer **/
  .footer {
-     background: #181716;
+     background: #0f1a24;
      padding-top: 90px;
      margin-top: 90px;
 }
@@ -1394,7 +1395,7 @@ color: #044f8d;
      text-transform: uppercase;
      padding-bottom: 20px;
      padding-bottom: 3px;
-     border-bottom: #044f8d solid 4px;
+     border-bottom: #fbc907 solid 4px;
      margin-bottom: 20px;
      width: 160px;
 }
@@ -1416,8 +1417,8 @@ color: #044f8d;
 }
  .submit {
     padding: 14px 45px;
-     border: #044f8d solid 1px;
-     background: #044f8d;
+     border: #fbc907 solid 1px;
+     background: #fbc907;
      color: #fff;
      margin-left: -5px;
      font-weight: 500;
@@ -1428,7 +1429,7 @@ color: #044f8d;
  .submit:hover {
      background: #d2cece;
      border: #d2cece solid 1px;
-     color: #044f8d;
+     color: #fbc907;
 }
  ul.social_link {
     padding-bottom: 35px;
@@ -1444,7 +1445,7 @@ color: #044f8d;
      height: 30px;
 }
  ul.social_link li a img:hover {
-     background-color: #044f8d;
+     background-color: #fbc907;
      border-radius: 20px;
 }
  ul.Menu_footer li{
@@ -1460,7 +1461,7 @@ color: #044f8d;
      margin-top: -27px;
 }
  ul.Menu_footer li a:hover{
-     color: #044f8d;
+     color: #fbc907;
 }
  ul.Links_footer {
      list-style: none;
@@ -1477,7 +1478,7 @@ color: #044f8d;
      margin-top: -27px;
 }
  ul.Links_footer li a:hover{
-     color: #044f8d;
+     color: #fbc907;
 }
  ul.Links_footer li {
      padding-bottom: 5px;
@@ -1512,7 +1513,7 @@ color: #044f8d;
      color: #000;
 }
  .copyright a:hover {
-     color: #044f8d;
+     color: #fbc907;
 }
 /** end footer **/
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
@@ -1522,8 +1523,6 @@ color: #044f8d;
 /*
 
 Simple House
-
-https://templatemo.com/tm-539-simple-house
 
 */
 
@@ -1669,13 +1668,13 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   }
   
   .tm-btn-success {
-    background-color: #319966;
+    background-color: #0b141c; /*fbe500   fbe500*/
     color: white;
   }
   
   .tm-btn-success:hover,
   .tm-btn-success:focus {
-    background-color: #1d6e46;
+    background-color: #fbc907;   /*1d6346*/
   }
   
   .tm-btn-danger {
@@ -1697,7 +1696,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   }
   
   .tm-text-success {
-    color: #319966;
+    color: #0b141c; /*fbe500*/
   }
   
   .text-center {
@@ -1918,7 +1917,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   .tm-gallery-title {
     font-size: 1.3rem;
     font-weight: 400;
-    color: #1A6692;
+    color: #111921;
     margin-bottom: 15px;
   }
   
@@ -1940,7 +1939,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   .tm-paging-item {
     list-style: none;
     display: inline-block;
-    border: 1px solid #2F956D;
+    border: 1px solid #fbe500; /*fbe500*/
     margin: 7px;
   }
   
@@ -1950,13 +1949,13 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    color: #2F956D;
+    color: #fbe500;
     background-color: transparent;
   }
   
   .tm-paging-link.active,
   .tm-paging-link:hover {
-    background-color: #2F956D;
+    background-color: #fbe500;
     color: white;
   }
   
@@ -2124,7 +2123,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   .tm-history-title {
     font-size: 1.6rem;
     font-weight: 300;
-    color: #1A6692;
+    color: #000000;
     margin-bottom: 30px;
   }
   
@@ -2248,12 +2247,12 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   .tm-contact-icon {
     display: inline-block;
     margin-right: 25px;
-    color: #319966;
+    color: #fbc907;
   }
   
   .tm-contact-link {
     display: inline-block;
-    color: #626364;
+    color: #fbc907;
     margin-bottom: 25px;
     text-decoration: none;
   }
@@ -2298,8 +2297,6 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
     padding-top: 40px;
   }
   
-  /* https://www.w3schools.com/howto/howto_js_accordion.asp */
-  /* Style the buttons that are used to open and close the accordion panel */
   .accordion {
     font-size: 1.2rem;
     font-family: 'Open Sans', Helevetica, Arial, sans-serif;
@@ -2316,7 +2313,6 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
     transition: 0.4s;
   }
   
-  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .accordion.active, .accordion:hover {
     color: #09C;
   }
