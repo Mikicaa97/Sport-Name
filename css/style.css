@@ -39,7 +39,9 @@ font-face{
 span{
     color: #fbc907;
 }
-
+#active{
+  color: #fbc907;
+}
 .logo img{
   margin-top: -10%;
   width: 232px;
@@ -1725,7 +1727,6 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   .container1 {
     background-color: white;
   }
-  
   p, address {
     color: #626364;
     line-height: 1.8;
