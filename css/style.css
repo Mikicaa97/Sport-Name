@@ -45,7 +45,10 @@ span{
   width: 232px;
   height: 100px;
 }
-
+mark{
+  background: none;
+  color: #0b141c;
+}
 /* .box_bg_img img{
   width: 837px;
   height: 482px;
@@ -1175,7 +1178,7 @@ span{
      display: inline-block;
 }
  .our .Games a:hover {
-     background-color: #fbc907; /*fbc907*/
+     background-color: #fbc907;
      border: #fbc907 solid 1px;
      color: #fff;
 }
@@ -1356,7 +1359,7 @@ color: #fbc907;
      color: #000;
      font-weight: 500;
      border-bottom: #000 solid 1px;
-     width: 104px;
+     width: 50%;
      display: inline-block;
      padding-bottom: 5px;
      margin-bottom: 15px;
@@ -1377,7 +1380,7 @@ color: #fbc907;
 /** end testimonial **/
 /** footer **/
  .footer {
-     background: #0f1a24;
+     background: #000811;
      padding-top: 90px;
      margin-top: 90px;
 }

@@ -210,7 +210,7 @@
         padding-left: 15px;
     }
      .menu-area-main li.active a {
-        background: fbc907;  /*inherit*/
+        background: inherit;
     }
      .testimonial_box {
         padding-bottom: 20px;
