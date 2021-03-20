@@ -52,6 +52,27 @@ mark{
   background: none;
   color: #0b141c;
 }
+
+/*scrool up deo pocetak*/
+/* section{
+  width: 100%;
+}
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #fbca0779;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  font-size: 22px;
+} */
+/*scrool up deo kraj*/
+
 /* .box_bg_img img{
   width: 837px;
   height: 482px;
@@ -2377,7 +2398,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   }
 
   /*Galerija*/
-/* .wrapper{
+.wrapper{
     min-height: 100vh;
     padding: 10px;
     max-width: 1100px;
@@ -2429,8 +2450,8 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
   padding: 0 5px 5px 5px;
   border-radius: 3px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
-  opacity: 0;
-  pointer-events: none;
+  /* opacity: 0;
+  pointer-events: none; */
 }
 .preview-box.show{
   opacity: 1;
@@ -2485,7 +2506,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
 }
 .img-box .slide.next{
   right: 0;
-} */
+}
 
 
 /***prodavnica efekti***/
@@ -2496,7 +2517,7 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
 }
 
 .tm-gallery .tm-gallery-item:hover img{
-  transform: scale(1.3);
+  transform: scale(1.4);
 }
 
 .tm-gallery-item span{
